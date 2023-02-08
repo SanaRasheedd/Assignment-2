@@ -72,7 +72,7 @@ h5{
 }
 /* Main page background*/
 .bg-image8{
-  background-image: url("assets/mainback.jpg");
+  background-image: url("assets/backg.jpg");
   filter: blur(8px);
   -webkit-filter: blur(0px);
   size-adjust: auto;

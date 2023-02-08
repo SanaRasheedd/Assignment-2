@@ -71,14 +71,18 @@ h5{
   background-size: cover;
 }
 /* Main page background*/
-.bg-image8{
-  background-image: url("assets/backg.jpg");
+.bg-image14{
+  background-image: url("assets/mainback.jpg");
   filter: blur(8px);
   -webkit-filter: blur(0px);
+
+  /* Full height */
   size-adjust: auto;
   padding-top: 400px;
   padding-bottom: 0px;
   position: relative;
+
+  /* Center and scale the image nicely */
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;

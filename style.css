@@ -20,7 +20,7 @@ h5{
 }
 /* contact section background*/
 .bg-image4{
-  background-image: url("pics/contact.jpg");
+  background-image: url("assets/contact.jpg");
   filter: blur(8px);
   -webkit-filter: blur(0px);
 
@@ -38,7 +38,7 @@ h5{
 /* about section background*/
 .bg-image2{
   /* The image used */
-  background-image: url("pics/buidling2.jpg");
+  background-image: url("assets/buidling2.jpg");
   filter: blur(8px);
   -webkit-filter: blur(0px);
   height: 100%;
@@ -59,7 +59,7 @@ h5{
 }
 /* Medicine(service 1 pic)*/
 .bg-image5{
-  background-image: url("pics/mdeicine.jpg");
+  background-image: url("assets/mdeicine.jpg");
   filter: blur(8px);
   -webkit-filter: blur(0px);
   size-adjust: auto;
@@ -72,7 +72,7 @@ h5{
 }
 /* Main page background*/
 .bg-image8{
-  background-image: url("pics/mainback.jpg");
+  background-image: url("assets/mainback.jpg");
   filter: blur(8px);
   -webkit-filter: blur(0px);
   size-adjust: auto;
@@ -154,7 +154,7 @@ h5{
 }
 /* PAEDIATRICS IMAGE*/
 .bg-image6{
-  background-image: url("pics/pediatrics-concept-stethoscope-toy-light-background_441923-12005.jpg");
+  background-image: url("assets/pediatrics-concept-stethoscope-toy-light-background_441923-12005.jpg");
   filter: blur(8px);
   -webkit-filter: blur(0px);
   size-adjust: auto;
@@ -167,7 +167,7 @@ h5{
 }
 /* Physiotherapyservice 1 pic)*/
 .bg-image7{
-  background-image: url("pics/physio1.jpg");
+  background-image: url("assets/physio1.jpg");
   filter: blur(8px);
   -webkit-filter: blur(0px);
   size-adjust: auto;
